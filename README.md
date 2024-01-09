@@ -18,3 +18,7 @@ This is just gonna be a list of ideas of projects I want to do
 ## Create a first game
 - This would either be something that has been done before or the concept is simple. As a first game it should be easy and simple and nothing complex.
 - 
+
+## Unplanned things ( Stuff that I just made on a whim )
+- Core keeper Midi player
+- Youtube Video downloader
