@@ -14,6 +14,7 @@ This is just gonna be a list of ideas of projects I want to do
 
 ## Update discord bot to use openAI library
 - This would be taking the current bot I have and just updating it with openAI
+[x] Added open AI support, also added elevenlabs support. This way I can have natural language spoken to the user over voice chat.
 
 ## Create a first game
 - This would either be something that has been done before or the concept is simple. As a first game it should be easy and simple and nothing complex.
