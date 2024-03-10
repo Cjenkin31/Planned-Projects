@@ -24,3 +24,4 @@ This is just gonna be a list of ideas of projects I want to do
 ## Unplanned things ( Stuff that I just made on a whim )
 - Core keeper Midi player
 - Youtube Video downloader
+- Inventory Sorting and viewing for Isekaid discord bot
